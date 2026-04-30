@@ -555,8 +555,8 @@ Diese Kinder benötigen besondere Unterstützung: sprachliche Begleitung, verlä
 
 Die Einteilung in die Niveaus A–C dient dabei ausschließlich der Unterrichtsplanung. Sie basiert auf wiederholten Beobachtungen in den vorangegangenen Mathematikstunden (Zwanzigerfeld, Steckwürfel, Dienes-Material, Stellenwerttafel) und auf kurzen informellen Lernstandsabfragen; sie ist **keine** diagnostische Festschreibung. Entscheidend für die Stunde sind vor allem folgende beobachtbare Indikatoren:
 
-| Beobachteter Indikator | Beobachtbares Verhalten in der Lerngruppe | Bedeutung für die Stunde |
-|------------------------|-------------------------------------------|--------------------------|
+| Beobachtungsaspekt | Beobachtbares Verhalten in der Lerngruppe | Bedeutung für die Stunde |
+|--------------------|-------------------------------------------|--------------------------|
 | Strukturierte Mengenerfassung | Ein Teil der Kinder erkennt 5er- und 10er-Strukturen am Zwanzigerfeld sofort, andere zählen jedes Plättchen einzeln ab | Die Eierschachtel muss Struktur sichtbar machen und zählendes Vorgehen irritieren |
 | Sprachliche Explikation | Einige Kinder zeigen tragfähige Lösungen handelnd, formulieren sie aber nur auf Nachfrage sprachlich | Satzstarter und gezielte Verbalisierung sind notwendig |
 | Darstellungswechsel | Der Übergang vom Material zur Stellenwerttafel gelingt einigen Kindern erst nach mündlicher Zwischenstufe („1 Zehner und 4 Einer“) | Die Stunde braucht bewusst eingebaute Zwischenschritte vom Handeln zum Sprechen und Schreiben |
@@ -1146,7 +1146,7 @@ Die Phase ist bewusst lehrergelenkt, um die neue Darstellungsform (Stellenwertta
 2. „Partner B sortiert die Gegenstände in die Eierschachtel ein und sagt: ‚Das sind … Zehner und … Einer.'"
 3. „Tragt das Ergebnis gemeinsam in die Stellenwerttafel auf eurem Arbeitsblatt ein."
 4. „Dann tauscht ihr die Rollen."
-5. „Am Ende erklärt jedes Kind einmal selbst ein Ergebnis."
+5. „Am Ende erklärt jedes Kind jeweils ein Ergebnis selbst."
 
 **L:** „Erklärt euch gegenseitig, wie ihr vorgeht. Vergleicht eure Ergebnisse. Wenn ihr fertig seid: Schreibt die Zahl und – wer möchte – eine Plusaufgabe dazu."
 
