@@ -553,6 +553,15 @@ Diese Kinder zeigen typische Merkmale mathematischer Lernschwierigkeiten (vgl. K
 
 Diese Kinder benötigen besondere Unterstützung: sprachliche Begleitung, verlängerte Handlungszeit am Material, reduzierte Komplexität der Aufgaben und einen stützenden Partner in der Kooperationsphase.
 
+Die Einteilung in die Niveaus A–C dient dabei ausschließlich der Unterrichtsplanung. Sie basiert auf wiederholten Beobachtungen in den vorangegangenen Mathematikstunden (Zwanzigerfeld, Steckwürfel, Dienes-Material, Stellenwerttafel) und auf kurzen informellen Lernstandsabfragen; sie ist **keine** diagnostische Festschreibung. Entscheidend für die Stunde sind vor allem folgende beobachtbare Indikatoren:
+
+| Beobachteter Indikator | Beobachtbares Verhalten in der Lerngruppe | Bedeutung für die Stunde |
+|------------------------|-------------------------------------------|--------------------------|
+| Strukturierte Mengenerfassung | Ein Teil der Kinder erkennt 5er- und 10er-Strukturen am Zwanzigerfeld sofort, andere zählen jedes Plättchen einzeln ab | Die Eierschachtel muss Struktur sichtbar machen und zählendes Vorgehen irritieren |
+| Sprachliche Explikation | Einige Kinder zeigen tragfähige Lösungen handelnd, formulieren sie aber nur auf Nachfrage sprachlich | Satzstarter und gezielte Verbalisierung sind notwendig |
+| Darstellungswechsel | Der Übergang vom Material zur Stellenwerttafel gelingt einigen Kindern erst nach mündlicher Zwischenstufe („1 Zehner und 4 Einer“) | Die Stunde braucht bewusst eingebaute Zwischenschritte vom Handeln zum Sprechen und Schreiben |
+| Kooperative Beteiligung | In Partnerphasen arbeiten die meisten Kinder verlässlich zusammen; einzelne Kinder bleiben eher beobachtend oder überlassen dem Partner das Eintragen | Rollenwechsel und individuelle Verantwortlichkeit müssen in der Stunde sichtbar abgesichert werden |
+
 ---
 
 ## 5.2 Fachliches Vorwissen
@@ -615,6 +624,15 @@ Die meisten Kinder halten sich an diese Regeln. Einzelne Kinder (v. a. aus Nivea
 ### Reflexionskompetenz
 
 Die Kinder sind es gewohnt, kooperative Phasen anhand von Leitfragen zu reflektieren (z. B. „Was hat euch geholfen?", „Was war schwierig?"). Diese Reflexionen finden in der Regel mündlich im Plenum statt.
+
+Für mathematisch produktive Partnergespräche werden in der Stunde bewusst kurze sprachliche Routinen aktiviert. Die Lehrkraft nutzt dafür feste Satzstarter, die an der Tafel sichtbar bleiben:
+
+- „Ich sehe einen Zehner und ___ Einer."
+- „Ich habe so gebündelt: ___."
+- „Ich glaube, das stimmt, weil ___."
+- „Kannst du mir zeigen, wo der Zehner ist?"
+
+Diese sprachlichen Stützen sollen verhindern, dass Partnerarbeit auf bloßes gemeinsames Tun ohne fachlichen Austausch reduziert wird.
 
 ---
 
@@ -916,6 +934,13 @@ Diese Offenheit ermöglicht natürliche Rampen: Kinder auf Niveau C benennen die
 
 Auch die Partnerarbeit selbst differenziert: In heterogenen Paaren profitiert das schwächere Kind von Modelllernen und sprachlicher Unterstützung durch den Partner. Das stärkere Kind vertieft sein Verständnis durch das Erklären – es muss seine Vorgehensweise strukturieren und versprachlichen, um sie dem Partner zugänglich zu machen. Heterogenität wird so nicht als Hindernis, sondern als Lernressource genutzt (vgl. Kap. 2.4).
 
+Damit diese Heterogenität nicht in Statusunterschiede oder ein einseitiges „Vormachen" kippt, werden vier Sicherungen eingebaut:
+
+1. **Verbindlicher Rollenwechsel**: Beide Kinder übernehmen nacheinander die Rollen „legt ein", „erklärt", „trägt ein" und „prüft".
+2. **Individuelle Verantwortlichkeit**: Jedes Kind muss mindestens ein Ergebnis selbst mündlich erklären können; die Lehrkraft fragt gezielt beide Partner an.
+3. **Sprachliche Strukturierung**: Satzstarter und Rückfragen verhindern, dass nur das schnellere Kind spricht.
+4. **Lehrkraft-Monitoring**: Paare, in denen ein Kind dauerhaft passiv bleibt oder dominiert, werden sofort unterbrochen und neu fokussiert („Erst erklärt A, dann zeigt B am Material“).
+
 ---
 
 ## 7.5 Materialauswahl und -begründung
@@ -947,6 +972,16 @@ Die Eierschachtel vereint Alltagsbezug, integrierte Struktur und physische Begre
 - **Stellenwerttafel (Z | E)**: Überbrückt den Übergang von der ikonischen zur symbolischen Ebene. Die Tabelle strukturiert die Notation und macht den Stellenwert visuell explizit.
 - **Arbeitsblatt**: Dient der individuellen Sicherung. Die Kinder dokumentieren ihre Ergebnisse und überführen die Handlungserfahrung in eine schriftliche Form.
 - **Rollenkarten** (optional): „Erklärer" und „Prüfer" – strukturieren die Partnerarbeit und stellen sicher, dass beide Kinder aktiv werden.
+
+### Grenzen des Materials und didaktische Absicherung
+
+Die Eierschachtel ist trotz ihrer Vorteile kein selbsterklärendes Material. Drei Grenzen sind für die Stunde zu beachten:
+
+1. **Zählfalle**: Kinder können weiterhin jede Mulde bzw. jeden Gegenstand einzeln abzählen, ohne die 5er-/10er-Struktur zu nutzen.
+2. **Alltagskontext statt Mathematik**: Der motivierende Osterkontext kann vom mathematischen Kern ablenken, wenn nicht konsequent auf Bündelung und Notation zurückgeführt wird.
+3. **Transferproblem**: Das Verständnis bleibt an die Schachtel gebunden, wenn der Übergang zur Stellenwerttafel und zur Zahlschreibweise nicht ausdrücklich hergestellt wird.
+
+Didaktisch wird diesen Grenzen dadurch begegnet, dass die Lehrkraft wiederholt auf volle Schachteln als Einheiten verweist, den Transfer mit Satzmustern („1 Zehner und 4 Einer = 14“) sprachlich sichert und die Stellenwerttafel in jeder Arbeitsrunde verbindlich mitführen lässt.
 
 ---
 
@@ -1111,8 +1146,19 @@ Die Phase ist bewusst lehrergelenkt, um die neue Darstellungsform (Stellenwertta
 2. „Partner B sortiert die Gegenstände in die Eierschachtel ein und sagt: ‚Das sind … Zehner und … Einer.'"
 3. „Tragt das Ergebnis gemeinsam in die Stellenwerttafel auf eurem Arbeitsblatt ein."
 4. „Dann tauscht ihr die Rollen."
+5. „Am Ende erklärt jedes Kind einmal selbst ein Ergebnis."
 
 **L:** „Erklärt euch gegenseitig, wie ihr vorgeht. Vergleicht eure Ergebnisse. Wenn ihr fertig seid: Schreibt die Zahl und – wer möchte – eine Plusaufgabe dazu."
+
+### Sprachliche Stützen und Verbindlichkeit
+
+Während der Partnerarbeit gelten folgende verbindliche Sprechimpulse, die sichtbar an der Tafel stehen:
+
+- „Ich sehe ___ Zehner und ___ Einer."
+- „Ich trage bei Z ___ und bei E ___ ein."
+- „Ich weiß, dass das stimmt, weil ___."
+
+Zusätzlich nutzt die Lehrkraft kurze Partnerstopps nach dem ersten Durchgang: Beide Kinder zeigen auf Material und Tabelle und beantworten nacheinander dieselbe Frage. So wird überprüft, ob nicht nur das Eintragen, sondern auch das Verstehen geteilt ist.
 
 ### Aufgaben auf dem Arbeitsblatt
 
@@ -1131,7 +1177,9 @@ Die Lehrkraft:
 - beobachtet und diagnostiziert (Wer bündelt sicher? Wer zählt noch einzeln?),
 - gibt Impulse bei Schwierigkeiten (vgl. Kap. 7.6),
 - unterstützt gezielt Paare mit Kindern des Niveaus C,
-- ermutigt zum Verbalisieren: „Erkläre deinem Partner, was du siehst!"
+- ermutigt zum Verbalisieren: „Erkläre deinem Partner, was du siehst!",
+- achtet auf symmetrische Beteiligung beider Partner,
+- dokumentiert stichwortartig, welche Kinder das Ergebnis nur handelnd, mündlich oder bereits symbolisch sichern können.
 
 ### Differenzierung
 
@@ -1168,6 +1216,15 @@ Die Lehrkraft:
 
 **L:** „Manche haben sich heute vertauscht. Woran könnt ihr erkennen, ob der Zehner richtig eingetragen ist?"
 - *Mögliche SuS-Äußerung:* „Man schaut, ob die Schachtel voll ist – das ist der Zehner."
+
+### Beobachtbare Lernnachweise
+
+In der Sicherungsphase gelten folgende Äußerungen und Handlungen als zentrale Lernnachweise:
+
+- Das Kind zeigt am Material sicher auf die volle Schachtel und bezeichnet sie als **einen Zehner**.
+- Das Kind benennt die Restmenge als **Einer** und ordnet sie der rechten Spalte der Stellenwerttafel zu.
+- Das Kind kann mindestens ein eigenes oder fremdes Beispiel in der Form **„1 Zehner und ___ Einer = ___.“** versprachlichen.
+- Das Kind erkennt einen typischen Fehler (Vertauschung von Z und E) oder kann ihn mit Unterstützung korrigieren.
 
 ### Didaktischer Kommentar
 
