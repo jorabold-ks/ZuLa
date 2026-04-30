@@ -6,6 +6,8 @@
 ✅ **Kapitel 1: Einleitung** → Forschungsfrage, Begründung, Kapitelübersicht
 ✅ **Kapitel 6: Lernziele** → SMART-formulierte Ziele, Minimalziele, Phasenübersicht
 ✅ **Kapitel 5: Unterrichtsvoraussetzungen** → Konkrete Lerngruppe, Leistungsniveaus, Sequenz
+✅ **Kapitel 7: Didaktische/Methodische Analyse** → Methodenbegründung, Differenzierungstabelle, Materialvergleich, Plan B
+✅ **Kapitel 3: Legitimation im Lehrplan** → Fließtext, Jahrgangsstufenbezug, fächerübergreifende Ziele
 
 ---
 
