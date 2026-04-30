@@ -979,7 +979,7 @@ Die Eierschachtel ist trotz ihrer Vorteile kein selbsterklärendes Material. Dre
 
 1. **Zählfalle**: Kinder können weiterhin jede Mulde bzw. jeden Gegenstand einzeln abzählen, ohne die 5er-/10er-Struktur zu nutzen.
 2. **Alltagskontext statt Mathematik**: Der motivierende Osterkontext kann vom mathematischen Kern ablenken, wenn nicht konsequent auf Bündelung und Notation zurückgeführt wird.
-3. **Transferproblem**: Das Verständnis bleibt an die Schachtel gebunden, wenn der Übergang zur Stellenwerttafel und zur Zahlschreibweise nicht ausdrücklich hergestellt wird.
+3. **Transferproblem**: Das Verständnis bleibt an die Schachtel gebunden, wenn der Übergang zur Stellenwerttafel und zur Zahlschreibweise nicht explizit hergestellt wird.
 
 Didaktisch wird diesen Grenzen dadurch begegnet, dass die Lehrkraft wiederholt auf volle Schachteln als Einheiten verweist, den Transfer mit Satzmustern („1 Zehner und 4 Einer = 14“) sprachlich sichert und die Stellenwerttafel in jeder Arbeitsrunde verbindlich mitführen lässt.
 
