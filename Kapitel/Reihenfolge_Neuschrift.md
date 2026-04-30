@@ -4,6 +4,8 @@
 ✅ **Kapitel 2: Theoretische Grundlagen** → Bestimmt den theoretischen Rahmen für alle weiteren Kapitel
 ✅ **Kapitel 4: Sachanalyse** → Definiert den fachlichen Gegenstand der Stunde
 ✅ **Kapitel 1: Einleitung** → Forschungsfrage, Begründung, Kapitelübersicht
+✅ **Kapitel 6: Lernziele** → SMART-formulierte Ziele, Minimalziele, Phasenübersicht
+✅ **Kapitel 5: Unterrichtsvoraussetzungen** → Konkrete Lerngruppe, Leistungsniveaus, Sequenz
 
 ---
 
