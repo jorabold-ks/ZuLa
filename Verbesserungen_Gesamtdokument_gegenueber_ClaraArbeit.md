@@ -4,6 +4,8 @@
 
 Dieses Dokument hält abschnittsweise fest, welche zentralen Verbesserungen im aktuellen `Gesamtdokument.md` gegenüber der ursprünglichen Fassung in `ClaraArbeit.txt` umgesetzt wurden und warum diese Änderungen fachlich und didaktisch sinnvoll sind.
 
+Die ursprüngliche Fassung ist im Repository als `ClaraArbeit.txt` enthalten und dient hier als Vergleichsbasis.
+
 Die Darstellung folgt im Wesentlichen der Gliederung der ursprünglichen Arbeit. Dabei werden drei Fragen beantwortet:
 
 1. **Was war in Claras Arbeit bereits angelegt oder problematisch?**

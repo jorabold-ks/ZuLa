@@ -1146,7 +1146,7 @@ Die Phase ist bewusst lehrergelenkt, um die neue Darstellungsform (Stellenwertta
 2. „Partner B sortiert die Gegenstände in die Eierschachtel ein und sagt: ‚Das sind … Zehner und … Einer.'"
 3. „Tragt das Ergebnis gemeinsam in die Stellenwerttafel auf eurem Arbeitsblatt ein."
 4. „Dann tauscht ihr die Rollen."
-5. „Am Ende erklärt jedes Kind jeweils ein Ergebnis selbst."
+5. „Nach beiden Durchgängen erklärt jedes Kind jeweils ein Ergebnis selbst."
 
 **L:** „Erklärt euch gegenseitig, wie ihr vorgeht. Vergleicht eure Ergebnisse. Wenn ihr fertig seid: Schreibt die Zahl und – wer möchte – eine Plusaufgabe dazu."
 
