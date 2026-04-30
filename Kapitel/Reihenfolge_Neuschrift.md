@@ -8,6 +8,7 @@
 ✅ **Kapitel 5: Unterrichtsvoraussetzungen** → Konkrete Lerngruppe, Leistungsniveaus, Sequenz
 ✅ **Kapitel 7: Didaktische/Methodische Analyse** → Methodenbegründung, Differenzierungstabelle, Materialvergleich, Plan B
 ✅ **Kapitel 3: Legitimation im Lehrplan** → Fließtext, Jahrgangsstufenbezug, fächerübergreifende Ziele
+✅ **Kapitel 8: Artikulationsschema** → 5 Phasen, Sicherungsphase ergänzt, Arbeitsblatt beschrieben, Differenzierung sichtbar
 
 ---
 
