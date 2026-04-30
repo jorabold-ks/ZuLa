@@ -2,6 +2,8 @@
 
 ## Bereits geschrieben:
 ✅ **Kapitel 2: Theoretische Grundlagen** → Bestimmt den theoretischen Rahmen für alle weiteren Kapitel
+✅ **Kapitel 4: Sachanalyse** → Definiert den fachlichen Gegenstand der Stunde
+✅ **Kapitel 1: Einleitung** → Forschungsfrage, Begründung, Kapitelübersicht
 
 ---
 
